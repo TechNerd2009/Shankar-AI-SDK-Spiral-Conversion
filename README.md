@@ -14,6 +14,16 @@ This repository contains several AI-powered **Spirals** that convert one form of
 **Input:** Long-form article or blog post.  
 **Output:** A complete YouTube video script that summarizes and captures the core message of the article in an engaging format.  
 
+### ✅ **Article → LinkedIn Post**  
+**Input:** Long-form article or blog post.  
+**Output:** A professional LinkedIn post summarizing the core takeaways from the article in a concise, engaging tone suitable for LinkedIn.  
+
+### ✅ **Abstract Concept → Relatable Analogy**  
+**Input:** Abstract or complex concept (like The Ship of Theseus, Simulation Hypothesis, etc.).  
+**Output:** A clear, relatable analogy that helps the audience easily grasp the concept by comparing it to something familiar.  
+
+<br>
+
 I plan to add more Spirals in the future or optimize the existing ones.  
 
 ---
