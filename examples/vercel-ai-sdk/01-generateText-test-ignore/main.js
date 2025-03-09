@@ -39,7 +39,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.answerMyQuestion = void 0;
 var google_1 = require("@ai-sdk/google");
 var ai_1 = require("ai");
-var model = (0, google_1.google)("models/gemini-2.0-flash-exp");
+var model = (0, google_1.google)("models/gemini-2.0-flash");
 var answerMyQuestion = function (prompt) { return __awaiter(void 0, void 0, void 0, function () {
     var text;
     return __generator(this, function (_a) {

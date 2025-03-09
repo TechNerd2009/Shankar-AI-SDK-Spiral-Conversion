@@ -3,10 +3,9 @@ import { readFileSync } from "fs";
 import path from "path";
 import { google  } from "@ai-sdk/google";
 
-//const model = smallModel;
 const model = google("models/gemini-2.0-flash");
 
-export const summarizeText = async (input: string) => {
+export const articleToScript = async (input: string) => {
   const { text } = await generateText({
     model,
     prompt: input,
@@ -69,6 +68,6 @@ const text = readFileSync(
   "utf-8",
 );
 
-const summary = await summarizeText(text);
+const youTubeScript = await articleToScript(text);
 
-console.log(summary);
+console.log(youTubeScript);
