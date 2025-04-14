@@ -79,8 +79,8 @@ This project is inspired by Spiral, a company that pioneers AI-powered content t
 ## 📩 Contact Me  
 
 If you have any questions, feedback, or want to collaborate, feel free to reach out:  
-- Email: [krishnamurthyshankar9@gmail.com]
-- GitHub: [github.com/TechNerd2009]  
+- Email: krishnamurthyshankar9@gmail.com
+- GitHub: https://github.com/TechNerd2009 
 
 ---
 
